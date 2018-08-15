@@ -14,3 +14,4 @@ VCNC : http://engineering.vcnc.co.kr
 라인플러스 : https://engineering.linecorp.com/ko/blog   
 NHN엔터테인먼트 : http://meetup.toast.com   
 드라마&컴퍼니(리멤버) : http://blog.dramancompany.com   
+후이서울 : https://engineering.huiseoul.com
